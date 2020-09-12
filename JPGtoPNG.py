@@ -13,3 +13,4 @@ for filename in os.listdir(in_file):
 	img.save(f'{out_file}{clean_name}.png', 'png')
 	print('all done babe')
 
+# thats all
